@@ -1,0 +1,6 @@
+                          
+                                   How to activate the Windows License 
+
+1. Go to Task Manager > File > Run New Task > "cmd" and Ok
+2. Here enter this Command = "wmic path SoftwareLicensingService get OA3xOriginalProductKey"
+3. Copy the product key and paste it in Activation and paste it at Change the product key.
